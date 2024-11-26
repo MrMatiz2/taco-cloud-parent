@@ -18,6 +18,7 @@
     <modules>
         <module>taco-cloud</module>
         <module>taco-cloud-messaging-jms</module>
+        <module>taco-cloud-domain</module>
     </modules>
 
 </project>

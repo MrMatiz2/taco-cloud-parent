@@ -4,3 +4,6 @@
 [submodule "taco-cloud-messaging-jms"]
 	path = taco-cloud-messaging-jms
 	url = https://github.com/MrMatiz2/taco-cloud-messaging-jms.git
+[submodule "taco-cloud-domain"]
+	path = taco-cloud-domain
+	url = https://github.com/MrMatiz2/taco-cloud-domain.git

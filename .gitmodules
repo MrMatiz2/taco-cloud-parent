@@ -7,3 +7,6 @@
 [submodule "taco-cloud-domain"]
 	path = taco-cloud-domain
 	url = https://github.com/MrMatiz2/taco-cloud-domain.git
+[submodule "taco-cloud-messaging-rabbitmq"]
+	path = taco-cloud-messaging-rabbitmq
+	url = https://github.com/MrMatiz2/taco-cloud-messaging-rabbitmq.git

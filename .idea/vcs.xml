@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/taco-cloud" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/taco-cloud-domain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/taco-cloud-messaging-jms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taco-cloud-messaging-rabbitmq" vcs="Git" />
   </component>
 </project>

@@ -20,6 +20,7 @@
         <module>taco-cloud-messaging-jms</module>
         <module>taco-cloud-domain</module>
         <module>taco-cloud-messaging-rabbitmq</module>
+        <module>taco-cloud-kafka</module>
     </modules>
 
 </project>

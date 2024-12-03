@@ -10,3 +10,6 @@
 [submodule "taco-cloud-messaging-rabbitmq"]
 	path = taco-cloud-messaging-rabbitmq
 	url = https://github.com/MrMatiz2/taco-cloud-messaging-rabbitmq.git
+[submodule "taco-cloud-kafka"]
+	path = taco-cloud-kafka
+	url = https://github.com/MrMatiz2/taco-cloud-kafka.git

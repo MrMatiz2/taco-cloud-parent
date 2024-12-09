@@ -21,6 +21,7 @@
         <module>taco-cloud-domain</module>
         <module>taco-cloud-messaging-rabbitmq</module>
         <module>taco-cloud-kafka</module>
+        <module>taco-cloud-email-integration</module>
     </modules>
 
 </project>
